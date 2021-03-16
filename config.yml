@@ -1,9 +1,10 @@
 title: EGI Staff Training
 description: This course aims to help EGI new staff
 steps:
-  - course: githubtraining/introduction-to-github
+  - title: Introduction of EGI Foundation 
     description: The first step in your course
-  - link: 'https://lab.github.com'
+    link: 'https://www.egi.eu/about/egi-foundation/'
+  - link: Strategy, Innovation and Communication Department
     title: Check out Learning Lab for more courses!
     description: >-
       There are many more courses available on Learning Lab for you to check
